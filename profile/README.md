@@ -24,11 +24,13 @@ npm install textlens
 
 ---
 
-### ProseScore *(coming soon)*
+### [ProseScore](https://github.com/ckmtools/prosescore)
 
 Web-based readability and content analysis. All processing in the browser. No data leaves your machine.
 
-[ckmtools.dev](https://ckmtools.dev)
+8 readability formulas. Sentiment analysis. Keyword extraction. SEO scoring. Privacy-first — runs offline. Free + Pro tiers.
+
+[Try it](https://prosescore.ckmtools.dev/) · [docs](https://ckmtools.dev/prosescore/)
 
 ---
 
